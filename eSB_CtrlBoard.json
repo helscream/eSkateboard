@@ -1,12 +1,12 @@
 {
   "packages": [
     {
-      "name": "esp32",
-      "maintainer": "Espressif Systems",
-      "websiteURL": "https://github.com/espressif/arduino-esp32",
-      "email": "hristo@espressif.com",
+      "name": "eSB Control Board",
+      "maintainer": "Omer Ikram ul Haq",
+      "websiteURL": "Wait for it",
+      "email": "omer53@live.com",
       "help": {
-        "online": "http://esp32.com"
+        "online": "Help Your self"
       },
       "platforms": [
         {
